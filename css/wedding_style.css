@@ -4176,7 +4176,7 @@ h2.wed_without_after {
 		top: 190px;
 	}
 	.wed_icon_box:hover .wed_testimonials {
-		opacity: 1;
+		opacity: 0.9;
 		top: 200px;
 	}
 	.wed_test_cont:hover {
