@@ -92,7 +92,7 @@
 	  var dataString = (arr.join (' '));
 	  $.ajax({
 	          method: "POST",
-	          url: "https://formspree.io/topsoul31@gmail.com",
+	          url: "https://formspree.io/bublybexta@gmail.com",
 	          data: dataString,
 	          dataType: "json",
 	          success: function() {
