@@ -96,7 +96,7 @@
 	          data: dataString,
 	          dataType: "json",
 	          success: function() {
-	                  $("#"+type).html("<div id='form_send_message'>Thanks for responding!</div>", 1500);
+	                  $("#"+type).html("<h3 id='form_send_message'>Yay! We can't wait to see you!!!</h3>", 1500);
 	          }
 	  });
 
