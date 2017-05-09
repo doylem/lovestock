@@ -213,11 +213,19 @@ h1.wed_h1_title {
 	font: 900 72px hensa, Arial;
 	line-height: 1.125;
 	margin-top: 0;
+	color: white !important;
 }
 h1.wed_h1_title--top {
 	font: 900 162px hensa, Arial;
 	line-height: 1.125;
 	margin-top: 0;
+	color: white !important;
+
+}
+@media (max-width: 600px) {
+	h1.wed_h1_title--top {
+		font-size: 100px;
+	}
 }
 h2 {
 	font: 400 24px hensa, Arial;

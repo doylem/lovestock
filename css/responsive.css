@@ -70,7 +70,7 @@
 		width:600px;
 		margin-bottom: 200px;
 		margin-top: 80px;
-	}  
+	}
 	.wed_agency .wed_fl_6 {
     transform:scale(0.7);
   }
@@ -92,7 +92,7 @@
 	h3 {
 		font: 400 42px/48px Bree Serif, Arial;
 	}
-	.wed_fixed, 
+	.wed_fixed,
 	.tablet .wed_fixed {
 		background-attachment:scroll!important;
 	}
@@ -101,7 +101,7 @@
 @media (max-width:1000px){
 
 	.mobile .wed_iphone,
-	.wed_top_menu, 
+	.wed_top_menu,
 	.wed_header_address,
 	.wed_browsers,
 	.wed_logo_und,
@@ -144,8 +144,8 @@
 		text-align: center;
 	}
 	.wed_slide_txt,
-	.wed_slide_txt.wed_slide_center_middle, 
-	.wed_slide_txt.wed_slide_center_top, 
+	.wed_slide_txt.wed_slide_center_middle,
+	.wed_slide_txt.wed_slide_center_top,
 	.wed_slide_txt.wed_slide_center_bottom {
 		width: 100%;
 		left: 0;
@@ -267,7 +267,7 @@
 	.wed_simple_block {
 		padding: 56px 15px 46px;
 	}
-	.wed_simple_block h2:after, 
+	.wed_simple_block h2:after,
 	h2:after {
 		margin-left: auto;
 		margin-right: auto;
@@ -363,9 +363,9 @@
 		height: 52px;
 		color: #fff;
 	}
-	.wed_parent ul, 
-	.wed_parent ul.mega-menu, 
-	.wed_parent ul, 
+	.wed_parent ul,
+	.wed_parent ul.mega-menu,
+	.wed_parent ul,
 	.wed_parent ul.mega-menu {
 		position: relative;
 		white-space:normal;
@@ -409,7 +409,7 @@
 		font-size: 18px;
 	}
 
-	header nav.active .wed_top_menu_mobile_link, 
+	header nav.active .wed_top_menu_mobile_link,
 	header nav.active .wed_logo {
 		color: #fff;
 	}
@@ -515,7 +515,7 @@
 	}
 	.countdown-section {
 	  padding: 40px 50px 20px 50px;
-	  width: 100%;  
+	  width: 100%;
 	}
 	.wed_countdown .countdown-amount {
 		font-size: 84px;
@@ -590,7 +590,7 @@
 	.tablet.portrait .form-control {
 		margin-bottom: 10px;
 	}
-	.text-center .wed_iphone_pink, 
+	.text-center .wed_iphone_pink,
 	.text-center .wed_iphone_gold {
 		height: 540px;
 		width: 185px;
@@ -627,7 +627,7 @@
   .wed_wht_txt a,
   .wed_wht_txt a i,
   .wed_wht_txt .wed_icon_box h4 {
-  	color: #000;
+  	/* color: #000; */
   }
   .wed_vid_bg .wed_wht_txt h2:after {
 		background-image: url(../images/arrows_bottom_400.png);
@@ -711,7 +711,7 @@
 	.wed_second_border {
 		display: none;
 	}
-	.wed_heart_img_1:before, 
+	.wed_heart_img_1:before,
 	.wed_heart_img_2:before {
 		left: -5px;
 	}
@@ -853,7 +853,7 @@
 	}
 
 	/*Happy Couple*/
-	.wed_heart_img_1:hover:after, 
+	.wed_heart_img_1:hover:after,
 	.wed_heart_img_2:hover:after {
 		opacity: 0;
 	}
@@ -976,11 +976,11 @@
 	h2.wed_hensa_slider {
    font: 300 50px hensa, Arial;
 	}
-	.wed_red .wed_heart_img_1:hover:after, 
+	.wed_red .wed_heart_img_1:hover:after,
 	.wed_red .wed_heart_img_2:hover:after {
 		opacity: 0;
 	}
-	.wed_blue .wed_heart_img_1:hover:after, 
+	.wed_blue .wed_heart_img_1:hover:after,
 	.wed_blue .wed_heart_img_2:hover:after {
 		opacity: 0;
 	}
@@ -1061,5 +1061,3 @@
 	font-size: 16px;
 }
 	}
-
-
