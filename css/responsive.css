@@ -627,7 +627,7 @@
   .wed_wht_txt a,
   .wed_wht_txt a i,
   .wed_wht_txt .wed_icon_box h4 {
-  	/* color: #000; */
+  	color: #000;
   }
   .wed_vid_bg .wed_wht_txt h2:after {
 		background-image: url(../images/arrows_bottom_400.png);
